@@ -1,11 +1,15 @@
 .header {
-    padding: 1rem 0 3rem;
+    background-color: #ffffff;
+    padding: 20px 20px 0px 20px;
+    margin: -20px -18px 30px -18px;
+    border-bottom: solid #cccccc 2px;
 }
 
 .title {
     color: #000000;
     font-size: 3rem;
     text-decoration: none;
+    font-weight: 300;
 }
 
 .navList {
@@ -15,14 +19,14 @@
 }
 
 .navItem {
-    color: #999999;
+    color: #777777;
     font-size: .9rem;
     margin-right: 1.3rem;
     text-decoration: none;
 }
 
 .navItem:hover {
-    color: #666666;
+    color: #555555;
 }
 
 .activeNavItem {

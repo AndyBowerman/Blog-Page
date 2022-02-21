@@ -7,7 +7,7 @@ const Contact = () => {
         <Layout>
             <Head title="Contact"/>
             <h1>Contact</h1>
-            <p>All of my contact information can be found on my portfolio page which you can access <a href="https://andybowerman.github.io/" target="_blank">here</a></p>
+            <p>All of my contact information can be found on my portfolio page which you can access <a href="https://andybowerman.github.io/" target="_blank">here</a>.</p>
         </Layout>
     )
 }
